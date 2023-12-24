@@ -19,7 +19,7 @@ tokens = [
     'COLON',
     'COMMA',
     'DASH'
-]
+    ]
 
 # Token definitions
 t_COMMENT = r'\#.*'
